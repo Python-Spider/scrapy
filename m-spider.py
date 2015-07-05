@@ -29,6 +29,9 @@ def usage():
         2.chardet
     
     Description:
+        *.记录HTTP状态的错误提示
+        *.记录有存在指定关键字的网址
+        *.记录标题。当然如果不记录标题，把标题功能注释掉，更快
         *.运行结果会保存为*-result（*为模式匹配）
         *.中止请按command+z(OS X)
         
